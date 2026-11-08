@@ -246,8 +246,8 @@ dane %>%
 **CHALLENGE 1:** Jaki jest najstarszy film Woody'ego Allena dostępny na Netflixie?
 
 ```{r 21, eval=FALSE}
-challenge1 <- source("./Zadanie/Challenge 1")
-print(Challenge 1)
+challenge1 <- source("./Zadanie/Challenge1.R")
+print(challenge1)
 ```
 
 
